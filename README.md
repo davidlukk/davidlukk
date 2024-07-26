@@ -25,4 +25,3 @@
 - [Whatsapp](https://wa.me/5511980842697?text=Ol%C3%A1%2C%20vi%20seu%20portfolio%20e%20gostaria%20de%20conversar!)
 #### Email: lucca.david07@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidlukk&repo=github-readme-stats)](https://github.com/davidlukk/github-readme-stats)
